@@ -15,7 +15,7 @@ This project is an **unsupervised machine learning system** designed to detect s
 
 ---
 
-## 🧠 Core Idea (Explain This in Interview)
+## 🧠 Core Idea 
 
 Traditional systems need labeled attack data.
 
